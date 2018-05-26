@@ -6,7 +6,7 @@ This is our project for HACK ON HILLS 2018.
 Contributors :
 Mayank Gautam
 - [Aarsh Sharma](https://github.com/aarsh-sharma)
-Abhinav Rawat
+-[Abhinav Rawat](https://github.com/abhinav-rwt)
 Arya Bhardwaj
 Saurabh Sharma
 
