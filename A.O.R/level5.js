@@ -1,4 +1,4 @@
-
+  // Get to the final lane and jump to win. Avoid ghost and stay alert.//
 	var lb1,lb2;
 	var ramlal,surprise,monster1, monster2,knife1,knife2,end=0;
 	var speed = 5, gravity = .3, bounce_speed = -8.5 ,knife_flag,flag=0;
