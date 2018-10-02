@@ -1,7 +1,7 @@
 # A.O.R
 This is our project for HACK ON HILLS 2018.
 
-5 Aventures made by Team Alma Libre.
+5 Adventures made by Team Alma Libre.
 
 Contributors :
 
